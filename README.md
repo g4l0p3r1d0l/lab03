@@ -1,2 +1,2 @@
-# Lab 03: CMake Automation
-Проект собран локально через CMake. Статическая библиотека `print` успешно слинкована.
+# Lab 04: Continuous Integration
+Настроен пайплайн автоматической сборки в GitHub Actions.
